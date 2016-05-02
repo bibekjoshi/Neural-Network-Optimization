@@ -1,13 +1,5 @@
 #Neural-Network-Optimization
 
-============================
-
-
-
-Neural-Network-Optimization  is a repository for optimizing the number of neurons in hidden layer of Neural Network Model
-
-
-
 
 The neural network training function is in the file 'nntrain.m'
 
@@ -25,4 +17,5 @@ is chosen as optimum.
 
 The above process is carried out on both one and two hidden layer topology.
 
-Preliminary results: The performance oscillates with variations in number of neurons for single neural networks. For ensemble with two hidden layers,the performance vs number of neurons is quite stable with optimum at 10.
+Preliminary results: The performance oscillates with variations in number of neurons for single neural networks. For ensemble with two hidden layers,
+the performance vs number of neurons is quite stable with optimum at 10. The results are saved in "png" files in this folder
